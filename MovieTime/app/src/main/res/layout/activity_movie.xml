@@ -50,7 +50,7 @@
         android:id="@+id/ptmbutton"
         android:layout_width="140dp"
         android:layout_height="53dp"
-        android:text="Confrim Movie"
+        android:text="Confirm Movie"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
