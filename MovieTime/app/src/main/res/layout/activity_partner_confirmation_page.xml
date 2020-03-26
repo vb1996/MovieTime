@@ -50,10 +50,10 @@
             android:id="@+id/nextbtn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginTop="60sp"
             android:gravity="center"
             android:text="Movie Page"
             android:textSize="16sp"
-            android:layout_marginTop="60sp"
             android:textStyle="bold">
 
         </Button>
