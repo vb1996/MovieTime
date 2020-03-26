@@ -10,6 +10,13 @@
         android:gravity="center"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="283dp"
+            android:layout_height="123dp"
+            app:srcCompat="@drawable/movietime" />
+
         <ImageView
             android:id="@+id/nimage"
             android:layout_width="180dp"
